@@ -3,4 +3,4 @@ Doing something in R of which part could be useful to others, possibly someone t
 
 Data is generated nonsense for demo and test purposes.
 
-To have a place to discuss/improve on code with others
+To have a place to discuss/improve on code with others.
